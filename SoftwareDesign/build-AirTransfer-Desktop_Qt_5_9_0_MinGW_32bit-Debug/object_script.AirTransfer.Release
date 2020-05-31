@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\registration.o
+./release\user_page.o
+./release\personal_information.o
+./release\qrc_img_resource.o
+./release\moc_mainwindow.o
+./release\moc_registration.o
+./release\moc_user_page.o
+./release\moc_personal_information.o
+);

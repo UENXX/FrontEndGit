@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>login_blackground.jpg</file>
+        <file>registration_background.jpg</file>
+    </qresource>
+    <qresource prefix="/exe">
+        <file>copypaste.exe</file>
+    </qresource>
+</RCC>
